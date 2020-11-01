@@ -13,8 +13,14 @@ This repository contains executable which generates a PDF file for the images pr
 **NOTE:**
 For ordering the images in the pdf pages. Image name should be as the page number on which the image is to be placed. 
 
+# Motivation:
+When wanting to create pdf for a given set of images. Normally we would have to upload all these set of images and then download the generated pdf file. And, also in scenarios where urgent requirement/conversion is needed, slow internet connection is present, etc having a local application ready which does the task is always good to have. So, *inorder to save time and to perform the pdf generation task without sacrificing privacy and security hence, this program.*
+
+
+**--**
 
 Try this out, This is still in initial phase. There are lots of improvements than can be done in this. 
 
 If any error/issue occurs then please do let me know.😁
+
 Enjoy!✨
